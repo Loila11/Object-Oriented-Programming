@@ -1,0 +1,7 @@
+First set:
+3
+1 2 3
+
+Second set:
+6
+1 5 3 7 7 3
