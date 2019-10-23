@@ -1,0 +1,14 @@
+Numar clienti:
+2
+
+Rufele fiecaruri client in forma: tip, greutate, deschis/inchis (0/1):
+3
+GEACA 2 1
+CAMASA 0.1 0
+CAMASA 0.1 1
+
+4
+PANTALONI 0.2 1
+ROCHIE 0.4 0
+PALTON 2.1 0
+COSTUM 1.3 1
